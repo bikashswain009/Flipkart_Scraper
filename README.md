@@ -23,6 +23,8 @@ pip install beautifulsoup4 pandas requests
 
 ### Usage
 Copy the code and run in vscode, jupiter notebook or pycharm
+You can clone the repo: 
+https://github.com/bikashswain009/Flipkart_Scraper.git
 
 ## Data Structure
 
