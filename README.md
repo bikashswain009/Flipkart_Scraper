@@ -22,26 +22,7 @@ pip install beautifulsoup4 pandas requests
 ```
 
 ### Usage
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/flipkart-mobiles-web-scraping.git
-```
-
-2. Navigate to the project directory:
-
-```bash
-cd flipkart-mobiles-web-scraping
-```
-
-3. Run the script:
-
-```bash
-python flipkart_scraper.py
-```
-
-This will initiate the web scraping process and generate a CSV file containing the scraped data.
+Copy the code and run in vscode, jupiter notebook or pycharm
 
 ## Data Structure
 
